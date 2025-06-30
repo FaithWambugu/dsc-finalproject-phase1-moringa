@@ -1,5 +1,5 @@
 # dsc-finalproject-phase1-moringa
-![plane](C:\Users\user\Documents\Flatiron\dsc-finalproject-phase1-moringa\Images)
+
 
 # Aircraft Fleet Selection for a New Airline
 
@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project focuses on performing a data-driven safety analysis of historical aviation accidents to inform the strategic selection of aircraft models for a new airline venture. The primary goal is to identify aircraft types that demonstrate the most favorable safety profiles, thereby minimizing operational risk and enhancing public trust for our new business.
+This project focuses on performing a data-driven safety analysis of historical aviation accidents to inform the strategic selection of aircraft models for a new airline venture. The primary goal is to identify aircraft types that demonstrate the most favorable safety profiles, thereby minimizing operational risk and enhancing public trust in our new business.
 The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data) from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 ## Business Understanding
