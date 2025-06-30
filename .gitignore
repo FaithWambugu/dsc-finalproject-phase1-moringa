@@ -209,3 +209,4 @@ __marimo__/
 #Virtual environment
 learn-env/
 
+.ipynb_checkpoints/
