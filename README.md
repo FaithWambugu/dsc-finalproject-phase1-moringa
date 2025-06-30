@@ -71,6 +71,21 @@ Further in-depth analyses are crucial for refining our decision-making. This lar
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook]() or review this [presentation]().
+See the full analysis in the [Jupyter Notebook](Untitled.ipynb) or review this [presentation](Presentation/Aviation_Analysis_Presentation.pdf).
+
+## Repository Structure
+
+```
+|-- Images
+|-- Phase1 Final Project
+|  |_ AviationData.csv
+|-- Presentation
+|  |_ Aviation_Analysis_Presentation
+|-- README.md
+|-- Untitled.ipynb
+|-- clean_aviation.csv
+
+```
+
 
 
