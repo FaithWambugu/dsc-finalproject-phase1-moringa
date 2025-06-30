@@ -43,6 +43,9 @@ This visualization identifies the aircraft manufacturers most frequently associa
 This chart breaks down the distribution of fatalities across different phases of flight (e.g., cruise, takeoff, maneuvering, approach). This highlights which operational stages carry higher risks and informs targeted safety improvements.
 ![Bubble chart showing fatalities by broad phase of flight](Images/Fatalities%20by%20Broad%20Phase%20of%20Flight.png)
 
+
+**Explore the full interactive analysis on my Tableau Public Dashboard:** [Interactive Aviation Safety Dashboard](https://public.tableau.com/views/U_S_AAviationAccidentsAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Conclusion
 
 Our analysis leads to several key findings crucial for our new airline:
