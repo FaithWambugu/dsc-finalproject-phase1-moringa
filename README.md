@@ -33,15 +33,15 @@ This presentation is designed for business stakeholders within our new airline c
 ### 1. Injury Trends Over Time
 
 This chart illustrates the aggregate trends in fatal, serious, and minor injuries over the years. Notably, spikes in specific years (e.g., 1982, 2008) highlight the disproportionate impact of a few catastrophic events on overall injury statistics.
-![Line graph showing total fatal, serious, and minor aviation injuries by year]()
+![Line graph showing total fatal, serious, and minor aviation injuries by year](Images/accident_trend.png)
 
 ### 2. Top Aircraft Makes by Fatalities
 This visualization identifies the aircraft manufacturers most frequently associated with fatalities in our dataset (e.g., Cessna, Piper, Beech). Understanding these historical patterns is crucial for risk assessment.
-![Bar chart showing top 10 aircraft makes by total fatalities]()
+![Bar chart showing top 10 aircraft makes by total fatalities](Images/Fatalities%20by%20Aircraft%20Make.png)
 
 ### 3. Fatalities by Broad Phase of Flight
 This chart breaks down the distribution of fatalities across different phases of flight (e.g., cruise, takeoff, maneuvering, approach). This highlights which operational stages carry higher risks and informs targeted safety improvements.
-![Bubble chart showing fatalities by broad phase of flight]()
+![Bubble chart showing fatalities by broad phase of flight](Images/Fatalities%20by%20Broad%20Phase%20of%20Flight.png)
 
 ## Conclusion
 
@@ -69,5 +69,8 @@ Based on our findings, we propose the following strategic recommendations for ou
 
 Further in-depth analyses are crucial for refining our decision-making. This largely depends on the availability of additional data, including flight hours/exposure data (to calculate true accident rates), more detailed probable cause information for accidents, and specific airline operator data.
 
+## For More Information
+
+See the full analysis in the [Jupyter Notebook]() or review this [presentation]().
 
 
