@@ -1,7 +1,7 @@
 # dsc-finalproject-phase1-moringa
 
-
 # Aircraft Fleet Selection for a New Airline
+![Aircraft](Images/pexels-mtyutina-249581.jpg)
 
 **Author**: [Faith Wambugu](mailto:faithwmbg@gmail.com)
 
@@ -33,12 +33,15 @@ This presentation is designed for business stakeholders within our new airline c
 ### 1. Injury Trends Over Time
 
 This chart illustrates the aggregate trends in fatal, serious, and minor injuries over the years. Notably, spikes in specific years (e.g., 1982, 2008) highlight the disproportionate impact of a few catastrophic events on overall injury statistics.
+![Line graph showing total fatal, serious, and minor aviation injuries by year]()
 
 ### 2. Top Aircraft Makes by Fatalities
 This visualization identifies the aircraft manufacturers most frequently associated with fatalities in our dataset (e.g., Cessna, Piper, Beech). Understanding these historical patterns is crucial for risk assessment.
+![Bar chart showing top 10 aircraft makes by total fatalities]()
 
-### 3. Injury Severity by Engine Type and Number
-This chart explores the relationship between the type and number of engines an aircraft has and the resulting injury severity. It helps to identify potential safety advantages or disadvantages based on propulsion systems.
+### 3. Fatalities by Broad Phase of Flight
+This chart breaks down the distribution of fatalities across different phases of flight (e.g., cruise, takeoff, maneuvering, approach). This highlights which operational stages carry higher risks and informs targeted safety improvements.
+![Bubble chart showing fatalities by broad phase of flight]()
 
 ## Conclusion
 
